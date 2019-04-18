@@ -141,7 +141,7 @@ contains the actual content.
 
 Let's also take a brief moment to recognize how to add comments into an HTML
 document.  These won't get rendered to the browser at all: they're just helpful
-notes for the author. We included two in the pevious section, they begin with
+notes for the author. We included two in the previous section, they begin with
 `<!--` and end with `-->`.
 
 ```html
